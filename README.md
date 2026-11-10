@@ -7,13 +7,13 @@ A FastAPI service that scrapes top stories from Hacker News, stores them in Post
 ## Tech Stack
 
 - **Python 3.14**
-- **FastAPI** — web framework
-- **PostgreSQL** — database
-- **SQLAlchemy** — ORM
-- **Playwright** — headless browser for scraping
-- **BeautifulSoup4** — HTML parsing
-- **Google Gemini** — AI-powered story summaries
-- **Pydantic v2** — data validation
+- **FastAPI** - web framework
+- **PostgreSQL** - database
+- **SQLAlchemy** - ORM
+- **Playwright** - headless browser for scraping
+- **BeautifulSoup4** - HTML parsing
+- **Google Gemini** - AI-powered story summaries
+- **Pydantic v2** - data validation
 
 ---
 
@@ -153,4 +153,4 @@ news-intelligence-api/
 
 ## Author
 
-**Ayodeji** — [GitHub](https://github.com/Ayodeji-Ayuba)
+**Ayodeji** - [GitHub](https://github.com/Ayodeji-Ayuba)
